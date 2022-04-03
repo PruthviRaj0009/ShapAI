@@ -1,3 +1,12 @@
+'''
+    CAUTION:
+    run this command first before running the program:
+    
+    " pip install requests "
+    
+    This command imports/install a specific version of the Requests module into a Virtualenv environment for Python 2 or Venv for Python 3 projects.
+'''
+
 import requests
 #import os
 from datetime import datetime
